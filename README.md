@@ -1,1 +1,1 @@
-# ITMO_distributed_system
+# distributed_system
